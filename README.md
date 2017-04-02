@@ -1,2 +1,4 @@
 # random-pair
-Do you have a class of students and you need to pair them up in random way to perfom a certain task? This script will take an input of 8 names, and produces an output of randomly generated pairs. 
+This script will take an input of any even number of names, and produces an output of randomly generated pairs. Pefectly ideal for Santa when arrangig his famous "Secret Santa" event. 
+
+The script queries a MySQL DB making use of MySQL-python. Which is an interface to the popular MySQL database server for Python. The use of the MySQL-python package allows the user ,Santa, to create a whish list of gifts for participants. 
